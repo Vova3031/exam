@@ -1,24 +1,37 @@
+f = open('output.txt', 'r+')
+f.truncate(0)
+f.close()
+
 import requests
+import lxml
 from bs4 import BeautifulSoup
 
-url = "https://cash-backer.club/shops"
-response = requests.get(url)
-html = response.text
-soup = BeautifulSoup(html, 'html.parser')
+user = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"
+headers = {"User-agent" : user}
+sess = requests.Session()
+counter = 0
+space = "  "
 
-shops = soup.find_all("div", class_="shop")
+print("Starting...")
+for j in range (0,7):
+  url = f"https://cash-backer.club/shops?page={j}"
+  resp = sess.get(url, headers = headers)
 
-with open("cashback_data.txt", "w", encoding="utf-8") as file:
-    for shop in shops:
-        company_name = shop.find("h2", class_="shop-title").find("a").text.strip()
-        cashback_amount = shop.find("span", class_="cashback-amount").text.strip()
-
-        print(f"Назва кампанії: {company_name}")
-        print(f"Розмір кешбеку: {cashback_amount}")
-        print()
-
-        file.write(f"Назва кампанії: {company_name}\n")
-        file.write(f"Розмір кешбеку: {cashback_amount}\n")
-        file.write("\n")
-
-print("Дані були успішно зібрані та записані у файл cashback_data.txt.")
+  if resp.status_code == 200:
+    soup = BeautifulSoup(resp.text, "html.parser")
+    prods = soup.findAll("div", class_ = 'col-lg-2 col-md-3 shop-list-card pseudo-link no-link')
+    for prod in prods:
+      counter += 1
+      title = prod.find("div", class_ = "shop-title").text
+      cashb = prod.find("div", class_ = "shop-rate").text
+      #zapis
+      with open('output.txt', "a", encoding = "utf-8") as file:
+        file.write(f"Shop No {counter}\n")
+        file.write(f"{space}Name: {title}\n")
+        file.write(f"{space}Cashback: {cashb}\n")
+    if j == 4:
+      print("Finishing...")
+  else:
+    print("ERROR on start")
+    break
+print("Done")

@@ -1,0 +1,1107 @@
+Shop No 1
+  Name: adidas RU
+  Cashback: до 9.00%
+Shop No 2
+  Name: Adminvps
+  Cashback: 22.50%
+Shop No 3
+  Name: Airycloth WW
+  Cashback: 6.30%
+Shop No 4
+  Name: Akbmag RU
+  Cashback: до 4.50%
+Shop No 5
+  Name: AliExpress RU&CIS
+  Cashback: до 9.27%
+Shop No 6
+  Name: AliExpress WW
+  Cashback: до 9.27%
+Shop No 7
+  Name: Allrad
+  Cashback: до 4.79%
+Shop No 8
+  Name: allright.io
+  Cashback: до 2520.00 р.
+Shop No 9
+  Name: Allsoft
+  Cashback: до 3.97%
+Shop No 10
+  Name: Ampm-store
+  Cashback: 7.88%
+Shop No 11
+  Name: Aptekazhivika
+  Cashback: 2.70%
+Shop No 12
+  Name: Aroma-butik
+  Cashback: до 7.20%
+Shop No 13
+  Name: Aromacode
+  Cashback: 7.20%
+Shop No 14
+  Name: Askona
+  Cashback: до 4.84%
+Shop No 15
+  Name: Asna
+  Cashback: 2.70%
+Shop No 16
+  Name: Asus
+  Cashback: до 1442.30 р.
+Shop No 17
+  Name: Avon RU
+  Cashback: до 9.00%
+Shop No 18
+  Name: AvtoALL
+  Cashback: до 3.60%
+Shop No 19
+  Name: Avtocod RU
+  Cashback: до 62.75 р.
+Shop No 20
+  Name: BeCompact
+  Cashback: до 12.2 %
+Shop No 21
+  Name: Berrylook WW
+  Cashback: 12.42%
+Shop No 22
+  Name: BigCommerce Many GEOs
+  Cashback: до 663.93 р.
+Shop No 23
+  Name: BigGeek
+  Cashback: до 6.30%
+Shop No 24
+  Name: BioTech School
+  Cashback: 2.70%
+Shop No 25
+  Name: Boxberry
+  Cashback: до 63.47 р.
+Shop No 26
+  Name: Braun RU
+  Cashback: 2.62%
+Shop No 27
+  Name: Budzdorov
+  Cashback: 2.70%
+Shop No 28
+  Name: Camera.ru
+  Cashback: до 1.73%
+Shop No 29
+  Name: Camper RU TR
+  Cashback: 3.60%
+Shop No 30
+  Name: Camping RU
+  Cashback: 5.87%
+Shop No 31
+  Name: Carter's Many GEOs
+  Cashback: 0.63 %
+Shop No 32
+  Name: Carvilleshop
+  Cashback: до 3000 р.
+Shop No 33
+  Name: Cg26
+  Cashback: 3.60%
+Shop No 34
+  Name: Charuel.ru
+  Cashback: 6.30%
+Shop No 35
+  Name: Checkperson RU
+  Cashback: 26.91%
+Shop No 36
+  Name: City.Travel Many GEOs
+  Cashback: до 6.75%
+Shop No 37
+  Name: Conteshop
+  Cashback: до 9.00%
+Shop No 38
+  Name: Davines
+  Cashback: 8.64%
+Shop No 39
+  Name: DeAgostini
+  Cashback: до 8.10%
+Shop No 40
+  Name: Doma.uchi RU
+  Cashback: 2700 руб.
+Shop No 41
+  Name: Dostavista
+  Cashback: 461.54 р.
+Shop No 42
+  Name: dpd RU
+  Cashback: 900.00 р.
+Shop No 43
+  Name: Duim24
+  Cashback: 2.72%
+Shop No 44
+  Name: Ecomarket
+  Cashback: 5.77 %
+Shop No 45
+  Name: Edrawsoft WW
+  Cashback: 27.00%
+Shop No 46
+  Name: ELARI STORE
+  Cashback: до 7.88%
+Shop No 47
+  Name: Electrolux RU
+  Cashback: до 4.62%
+Shop No 48
+  Name: Elementaree
+  Cashback: до 9.00%
+Shop No 49
+  Name: Eneba Many GEOs
+  Cashback: до 4.50%
+Shop No 50
+  Name: EnglishDom
+  Cashback: до 2340.00 р.
+Shop No 51
+  Name: Envato Market Many GEOs
+  Cashback: до 27.63%
+Shop No 52
+  Name: Epsom
+  Cashback: 9.00%
+Shop No 53
+  Name: Etam
+  Cashback: 6.30%
+Shop No 54
+  Name: Euro-diski
+  Cashback: до 2.07%
+Shop No 55
+  Name: EVE Online [CPS] WW
+  Cashback: 27.00%
+Shop No 56
+  Name: Exomenu.ru
+  Cashback: 5.18%
+Shop No 57
+  Name: Familygang
+  Cashback: 9.00%
+Shop No 58
+  Name: Fandeco
+  Cashback: 9.00%
+Shop No 59
+  Name: Finn Flare
+  Cashback: до 4.05%
+Shop No 60
+  Name: Fiverr Many GEO's
+  Cashback: до 6.30 %.
+Shop No 61
+  Name: adidas RU
+  Cashback: до 9.00%
+Shop No 62
+  Name: Adminvps
+  Cashback: 22.50%
+Shop No 63
+  Name: Airycloth WW
+  Cashback: 6.30%
+Shop No 64
+  Name: Akbmag RU
+  Cashback: до 4.50%
+Shop No 65
+  Name: AliExpress RU&CIS
+  Cashback: до 9.27%
+Shop No 66
+  Name: AliExpress WW
+  Cashback: до 9.27%
+Shop No 67
+  Name: Allrad
+  Cashback: до 4.79%
+Shop No 68
+  Name: allright.io
+  Cashback: до 2520.00 р.
+Shop No 69
+  Name: Allsoft
+  Cashback: до 3.97%
+Shop No 70
+  Name: Ampm-store
+  Cashback: 7.88%
+Shop No 71
+  Name: Aptekazhivika
+  Cashback: 2.70%
+Shop No 72
+  Name: Aroma-butik
+  Cashback: до 7.20%
+Shop No 73
+  Name: Aromacode
+  Cashback: 7.20%
+Shop No 74
+  Name: Askona
+  Cashback: до 4.84%
+Shop No 75
+  Name: Asna
+  Cashback: 2.70%
+Shop No 76
+  Name: Asus
+  Cashback: до 1442.30 р.
+Shop No 77
+  Name: Avon RU
+  Cashback: до 9.00%
+Shop No 78
+  Name: AvtoALL
+  Cashback: до 3.60%
+Shop No 79
+  Name: Avtocod RU
+  Cashback: до 62.75 р.
+Shop No 80
+  Name: BeCompact
+  Cashback: до 12.2 %
+Shop No 81
+  Name: Berrylook WW
+  Cashback: 12.42%
+Shop No 82
+  Name: BigCommerce Many GEOs
+  Cashback: до 663.93 р.
+Shop No 83
+  Name: BigGeek
+  Cashback: до 6.30%
+Shop No 84
+  Name: BioTech School
+  Cashback: 2.70%
+Shop No 85
+  Name: Boxberry
+  Cashback: до 63.47 р.
+Shop No 86
+  Name: Braun RU
+  Cashback: 2.62%
+Shop No 87
+  Name: Budzdorov
+  Cashback: 2.70%
+Shop No 88
+  Name: Camera.ru
+  Cashback: до 1.73%
+Shop No 89
+  Name: Camper RU TR
+  Cashback: 3.60%
+Shop No 90
+  Name: Camping RU
+  Cashback: 5.87%
+Shop No 91
+  Name: Carter's Many GEOs
+  Cashback: 0.63 %
+Shop No 92
+  Name: Carvilleshop
+  Cashback: до 3000 р.
+Shop No 93
+  Name: Cg26
+  Cashback: 3.60%
+Shop No 94
+  Name: Charuel.ru
+  Cashback: 6.30%
+Shop No 95
+  Name: Checkperson RU
+  Cashback: 26.91%
+Shop No 96
+  Name: City.Travel Many GEOs
+  Cashback: до 6.75%
+Shop No 97
+  Name: Conteshop
+  Cashback: до 9.00%
+Shop No 98
+  Name: Davines
+  Cashback: 8.64%
+Shop No 99
+  Name: DeAgostini
+  Cashback: до 8.10%
+Shop No 100
+  Name: Doma.uchi RU
+  Cashback: 2700 руб.
+Shop No 101
+  Name: Dostavista
+  Cashback: 461.54 р.
+Shop No 102
+  Name: dpd RU
+  Cashback: 900.00 р.
+Shop No 103
+  Name: Duim24
+  Cashback: 2.72%
+Shop No 104
+  Name: Ecomarket
+  Cashback: 5.77 %
+Shop No 105
+  Name: Edrawsoft WW
+  Cashback: 27.00%
+Shop No 106
+  Name: ELARI STORE
+  Cashback: до 7.88%
+Shop No 107
+  Name: Electrolux RU
+  Cashback: до 4.62%
+Shop No 108
+  Name: Elementaree
+  Cashback: до 9.00%
+Shop No 109
+  Name: Eneba Many GEOs
+  Cashback: до 4.50%
+Shop No 110
+  Name: EnglishDom
+  Cashback: до 2340.00 р.
+Shop No 111
+  Name: Envato Market Many GEOs
+  Cashback: до 27.63%
+Shop No 112
+  Name: Epsom
+  Cashback: 9.00%
+Shop No 113
+  Name: Etam
+  Cashback: 6.30%
+Shop No 114
+  Name: Euro-diski
+  Cashback: до 2.07%
+Shop No 115
+  Name: EVE Online [CPS] WW
+  Cashback: 27.00%
+Shop No 116
+  Name: Exomenu.ru
+  Cashback: 5.18%
+Shop No 117
+  Name: Familygang
+  Cashback: 9.00%
+Shop No 118
+  Name: Fandeco
+  Cashback: 9.00%
+Shop No 119
+  Name: Finn Flare
+  Cashback: до 4.05%
+Shop No 120
+  Name: Fiverr Many GEO's
+  Cashback: до 6.30 %.
+Shop No 121
+  Name: FL.Ru
+  Cashback: до 62.31 р.
+Shop No 122
+  Name: Floryday WW
+  Cashback: 6.92%
+Shop No 123
+  Name: Foambox
+  Cashback: до 8.10 %
+Shop No 124
+  Name: Fornex Hosting
+  Cashback: 63.00%
+Shop No 125
+  Name: Forward.bike
+  Cashback: 3.67 %
+Shop No 126
+  Name: Foxford
+  Cashback: до 90.00 р.
+Shop No 127
+  Name: Fozzy
+  Cashback: до 630.00 р.
+Shop No 128
+  Name: Fulmar
+  Cashback: 13.50%
+Shop No 129
+  Name: Fursk
+  Cashback: до 4.50%
+Shop No 130
+  Name: G2A Many GEOs
+  Cashback: 4.50%
+Shop No 131
+  Name: Galerie46
+  Cashback: 5.92%
+Shop No 132
+  Name: Gama-Gama RU + CIS
+  Cashback: до 9.00%
+Shop No 133
+  Name: GamesDealer
+  Cashback: 9.00%
+Shop No 134
+  Name: Garshinka
+  Cashback: 6.82%
+Shop No 135
+  Name: gate31
+  Cashback: 9.00%
+Shop No 136
+  Name: Gde.ru - доска объявлений
+  Cashback: 17.31%
+Shop No 137
+  Name: Gdematerial
+  Cashback: до 6.30%
+Shop No 138
+  Name: GearBest WW
+  Cashback: до 2.70%
+Shop No 139
+  Name: GeekBrains
+  Cashback: до 9.00 р.
+Shop No 140
+  Name: Geekbuying WW
+  Cashback: до 7.20%
+Shop No 141
+  Name: Giorgio Armani Beauty RU
+  Cashback: 2.70%
+Shop No 142
+  Name: Gipfel [CPS] Ru
+  Cashback: 5.77%
+Shop No 143
+  Name: Gnom Land
+  Cashback: до 3.00%
+Shop No 144
+  Name: Goldenpatch
+  Cashback: 11.52%
+Shop No 145
+  Name: Grand-Flora.ru
+  Cashback: до 4.56%
+Shop No 146
+  Name: Gshopper Many GEOs
+  Cashback: до 7.20%
+Shop No 147
+  Name: Guess RU
+  Cashback: 6.75%
+Shop No 148
+  Name: Gutsant
+  Cashback: до 7.20%
+Shop No 149
+  Name: HelpToMama
+  Cashback: до 5.40%
+Shop No 150
+  Name: HENDERSON
+  Cashback: до 8.10%
+Shop No 151
+  Name: Hobby Games
+  Cashback: до 9.00%
+Shop No 152
+  Name: HONOR
+  Cashback: 2.34 %
+Shop No 153
+  Name: ICOVER
+  Cashback: до 12.44%
+Shop No 154
+  Name: Imodern
+  Cashback: до 7.47%
+Shop No 155
+  Name: Inksystem UA RU BY KZ
+  Cashback: до 6.84 р.
+Shop No 156
+  Name: Intercars-tickets Many GEOs
+  Cashback: 6.92%
+Shop No 157
+  Name: IntimShop
+  Cashback: 13.50%
+Shop No 158
+  Name: Intui.travel transfer Many GEO's
+  Cashback: 7.38%
+Shop No 159
+  Name: iport
+  Cashback: 450.00 р.
+Shop No 160
+  Name: ivi.ru [CPS]
+  Cashback: до 9.00%
+Shop No 161
+  Name: Japonica
+  Cashback: до 8.10%
+Shop No 162
+  Name: Jettop
+  Cashback: 1049.40 р.
+Shop No 163
+  Name: Joybuy Many GEOs
+  Cashback: до 4.50%
+Shop No 164
+  Name: Karusel-shop
+  Cashback: 7.20%
+Shop No 165
+  Name: Korston
+  Cashback: до 7.20%
+Shop No 166
+  Name: Kosmetika proff
+  Cashback: до 7.35%
+Shop No 167
+  Name: Kovea
+  Cashback: 4.50%
+Shop No 168
+  Name: KRASOTKAPRO
+  Cashback: до 4.50%
+Shop No 169
+  Name: Krovat RU
+  Cashback: до 5.40%
+Shop No 170
+  Name: Kupivip RU
+  Cashback: до 9.00%
+Shop No 171
+  Name: LA ROCHE-POSAY
+  Cashback: 2.70%
+Shop No 172
+  Name: Lactomin
+  Cashback: 4.50%
+Shop No 173
+  Name: Lampadia
+  Cashback: 4,5 %
+Shop No 174
+  Name: LANCOME
+  Cashback: 9.00%
+Shop No 175
+  Name: Lassie
+  Cashback: до 6.30%
+Shop No 176
+  Name: Leomax
+  Cashback: 9.00%
+Shop No 177
+  Name: LEOMAX24
+  Cashback: до 7.20%
+Shop No 178
+  Name: Letbefit
+  Cashback: до 830.77 р.
+Shop No 179
+  Name: Likato
+  Cashback: 14.18%
+Shop No 180
+  Name: Linzi
+  Cashback: до 7.02%
+Shop No 181
+  Name: Logika.shop
+  Cashback: до 4.04%
+Shop No 182
+  Name: Logitech Many Geos
+  Cashback: 5.54%
+Shop No 183
+  Name: LookFantastic RU
+  Cashback: до 8.31%
+Shop No 184
+  Name: Love Republic
+  Cashback: 6.30%
+Shop No 185
+  Name: Lucky Print RU
+  Cashback: до 432.63 руб
+Shop No 186
+  Name: Lukoil-shop
+  Cashback: 346.14 р.
+Shop No 187
+  Name: Lustrof
+  Cashback: до 7.20%
+Shop No 188
+  Name: Magizoo
+  Cashback: до 3.60%
+Shop No 189
+  Name: Marccony
+  Cashback: 7.20%
+Shop No 190
+  Name: Marksandspencer
+  Cashback: 6.92%
+Shop No 191
+  Name: MaskShop
+  Cashback: до 8.10%
+Shop No 192
+  Name: Mavi RU
+  Cashback: 8.64%
+Shop No 193
+  Name: mbgreen
+  Cashback: 8.19%
+Shop No 194
+  Name: Mealty
+  Cashback: до 7.87%
+Shop No 195
+  Name: Mebel169
+  Cashback: 3.67%
+Shop No 196
+  Name: Mebelaero
+  Cashback: 5.22%
+Shop No 197
+  Name: MED-магазин
+  Cashback: 4.50%
+Shop No 198
+  Name: Mideastore
+  Cashback: до 4.20%
+Shop No 199
+  Name: Miuz
+  Cashback: 7.20%
+Shop No 200
+  Name: Modalada
+  Cashback: 9.00%
+Shop No 201
+  Name: Mothercare
+  Cashback: до 7.20%
+Shop No 202
+  Name: Moy mir
+  Cashback: 5.77%
+Shop No 203
+  Name: Mtk-gr
+  Cashback: 2.88%
+Shop No 204
+  Name: Myprotein RU
+  Cashback: до 7.20%
+Shop No 205
+  Name: Nappyclub
+  Cashback: до 6.63%
+Shop No 206
+  Name: Navigator Shop RU
+  Cashback: до 7.47%
+Shop No 207
+  Name: Nbcomputers
+  Cashback: 540.00 руб.
+Shop No 208
+  Name: Nike RU
+  Cashback: до 2.97%
+Shop No 209
+  Name: NO ONE
+  Cashback: до 6.30%
+Shop No 210
+  Name: Odyssey.shop
+  Cashback: 8.64%
+Shop No 211
+  Name: Original marines
+  Cashback: 7.20%
+Shop No 212
+  Name: Originalam UA RU BY KZ
+  Cashback: до 6.92 р.
+Shop No 213
+  Name: Oshkosh Many GEOs
+  Cashback: 0.68%
+Shop No 214
+  Name: Pandora RU
+  Cashback: 5.40%
+Shop No 215
+  Name: PerformanceFood RU
+  Cashback: до 9.72%
+Shop No 216
+  Name: Petshop
+  Cashback: до 2.77%
+Shop No 217
+  Name: Pharmacosmetica.ru
+  Cashback: до 2.70%
+Shop No 218
+  Name: Picsis1
+  Cashback: 10.80%
+Shop No 219
+  Name: Pizza-allo
+  Cashback: 2.61%
+Shop No 220
+  Name: Podpisnie
+  Cashback: 8.64%
+Shop No 221
+  Name: Pompadoo
+  Cashback: 225.00 р.
+Shop No 222
+  Name: Poood
+  Cashback: до 5.40%
+Shop No 223
+  Name: PROFI
+  Cashback: до 126.00 р.
+Shop No 224
+  Name: QEEQ WW
+  Cashback: 4.50%
+Shop No 225
+  Name: Radisson Hotel Group many GEOs
+  Cashback: до 5.40%
+Shop No 226
+  Name: Randewoo
+  Cashback: до 8.10%
+Shop No 227
+  Name: redfoxmsk
+  Cashback: 8.46%
+Shop No 228
+  Name: Regenbogen
+  Cashback: до 9.00%
+Shop No 229
+  Name: Rentalcars WW
+  Cashback: 5.40%
+Shop No 230
+  Name: Respect-shoes
+  Cashback: 5.85%
+Shop No 231
+  Name: Ridestep
+  Cashback: 5.92%
+Shop No 232
+  Name: RU_Converse
+  Cashback: 6.30%
+Shop No 233
+  Name: S-centres
+  Cashback: 540.00 р.
+Shop No 234
+  Name: Samsung-store
+  Cashback: 540.00 р.
+Shop No 235
+  Name: Santehmoll
+  Cashback: 2.63%
+Shop No 236
+  Name: Santehnika-room
+  Cashback: 4.32%
+Shop No 237
+  Name: satra.ru
+  Cashback: 3.25%
+Shop No 238
+  Name: Satro-paladin RU
+  Cashback: 2.39%
+Shop No 239
+  Name: Send Flowers
+  Cashback: до 5.54%
+Shop No 240
+  Name: Sephora
+  Cashback: 13.5 %
+Shop No 241
+  Name: Sexshop24
+  Cashback: 4.95%
+Shop No 242
+  Name: Shop Polaris RU
+  Cashback: 5.92%
+Shop No 243
+  Name: Shop-neoline
+  Cashback: 9.80%
+Shop No 244
+  Name: Shop-runail
+  Cashback: 7,5 %
+Shop No 245
+  Name: Shop.bq
+  Cashback: до 5.34%
+Shop No 246
+  Name: Sifo
+  Cashback: 6.3
+Shop No 247
+  Name: Skidex
+  Cashback: 4,0 %
+Shop No 248
+  Name: SkinCeuticals
+  Cashback: до 6.30%
+Shop No 249
+  Name: Skyeng
+  Cashback: до 63.00 р.
+Shop No 250
+  Name: Slepayakurica
+  Cashback: 4.50%
+Shop No 251
+  Name: Sletat RU
+  Cashback: 2.03%
+Shop No 252
+  Name: Smart Progress RU
+  Cashback: до 8.07%
+Shop No 253
+  Name: Smartcasual.ru
+  Cashback: 6.75%
+Shop No 254
+  Name: Softline
+  Cashback: до 4.28%
+Shop No 255
+  Name: SOKOLOV
+  Cashback: 9 %
+Shop No 256
+  Name: Somebox
+  Cashback: 5.4 %
+Shop No 257
+  Name: Sportmarket
+  Cashback: до 4.03%
+Shop No 258
+  Name: START
+  Cashback: 18.00%
+Shop No 259
+  Name: Stolnik24.ru
+  Cashback: 6.30%
+Shop No 260
+  Name: Store.rerooms
+  Cashback: до 2925.00 руб
+Shop No 261
+  Name: Stradivarius RU
+  Cashback: до 6.30%
+Shop No 262
+  Name: Svetlov
+  Cashback: 4,5 %
+Shop No 263
+  Name: Tea
+  Cashback: 7.20%
+Shop No 264
+  Name: Teana-labs
+  Cashback: 8.65%
+Shop No 265
+  Name: Tehnopoliten
+  Cashback: до 4.03%
+Shop No 266
+  Name: Tez Tour BY
+  Cashback: до 4.05%
+Shop No 267
+  Name: Tezeks Many Geos
+  Cashback: 7.20%
+Shop No 268
+  Name: Thomas-muenz
+  Cashback: до 9.00%
+Shop No 269
+  Name: Tickets Many GEOs
+  Cashback: до 2.25%
+Shop No 270
+  Name: Tochilkazhuk
+  Cashback: до 9.00%
+Shop No 271
+  Name: Tomdom.ru
+  Cashback: до 3.48%
+Shop No 272
+  Name: Toy
+  Cashback: 4.84%
+Shop No 273
+  Name: Ultratrade
+  Cashback: до 1.78%
+Shop No 274
+  Name: Unique Fabric
+  Cashback: 5.92%
+Shop No 275
+  Name: Ushatava
+  Cashback: до 5.25%
+Shop No 276
+  Name: V-dymov
+  Cashback: 8.64%
+Shop No 277
+  Name: V-meha.ru
+  Cashback: 11.54%
+Shop No 278
+  Name: VASSA & Co.
+  Cashback: до 7.20%
+Shop No 279
+  Name: Velodrive.ru
+  Cashback: до 4.19%
+Shop No 280
+  Name: Vendor: Delonghi
+  Cashback: 5.0
+Shop No 281
+  Name: Vendor: LEX
+  Cashback: 5.0
+Shop No 282
+  Name: Video-shoper
+  Cashback: до 450.00 р.
+Shop No 283
+  Name: Vip Avenue
+  Cashback: до 7.20%
+Shop No 284
+  Name: Vivo RU
+  Cashback: 2.63%
+Shop No 285
+  Name: Vodopad
+  Cashback: 3.60%
+Shop No 286
+  Name: vodovoz
+  Cashback: до 7.88%
+Shop No 287
+  Name: Vx-shop
+  Cashback: 7.79%
+Shop No 288
+  Name: Wallytally
+  Cashback: 5.25%
+Shop No 289
+  Name: Watsons
+  Cashback: 9.00%
+Shop No 290
+  Name: Weissgauff
+  Cashback: 3.60%
+Shop No 291
+  Name: Wenger
+  Cashback: 7.79%
+Shop No 292
+  Name: WESTWING
+  Cashback: до 9.00%
+Shop No 293
+  Name: Whirlpool
+  Cashback: до 2.70%
+Shop No 294
+  Name: Williams-oliver
+  Cashback: до 5.76%
+Shop No 295
+  Name: Wink RU
+  Cashback: 10.44 %
+Shop No 296
+  Name: Wish Many GEO's
+  Cashback: до 0.95%
+Shop No 297
+  Name: Wite
+  Cashback: до 9.00 %
+Shop No 298
+  Name: Wondershare WW
+  Cashback: 27.00%
+Shop No 299
+  Name: Woohoobox RU
+  Cashback: 6.43%
+Shop No 300
+  Name: X-store
+  Cashback: до 9.00%
+Shop No 301
+  Name: XYZ School
+  Cashback: 13.50%
+Shop No 302
+  Name: Yamdiet
+  Cashback: до 990.00 р.
+Shop No 303
+  Name: Yota
+  Cashback: до 405.00%
+Shop No 304
+  Name: Yourroom
+  Cashback: до 3.67%
+Shop No 305
+  Name: Yves Saint Laurent RU
+  Cashback: до 9.00%
+Shop No 306
+  Name: Zenden
+  Cashback: 6.92%
+Shop No 307
+  Name: Zippo
+  Cashback: 7.79%
+Shop No 308
+  Name: Zoomag
+  Cashback: до 4.61%
+Shop No 309
+  Name: Автопрофи
+  Cashback: 4.50%
+Shop No 310
+  Name: АгроСемФонд
+  Cashback: 180.00 р.
+Shop No 311
+  Name: Азбука Вкуса Экспресс
+  Cashback: до 8.65%
+Shop No 312
+  Name: Аквафор
+  Cashback: до 7.20%
+Shop No 313
+  Name: АльфаСтрахование [CPS] RU
+  Cashback: до 346.50 руб.
+Shop No 314
+  Name: Аптека Диалог
+  Cashback: до 5.85%
+Shop No 315
+  Name: Аптека-Медика
+  Cashback: 4.50%
+Shop No 316
+  Name: Арт-маркет "Красный Карандаш"
+  Cashback: до 4.05%
+Shop No 317
+  Name: Ашан
+  Cashback: до 4.50%
+Shop No 318
+  Name: Библиотека Ароматов
+  Cashback: до 6.30%
+Shop No 319
+  Name: Бигам
+  Cashback: 2.25%
+Shop No 320
+  Name: Билайн
+  Cashback: до 9.00 р.
+Shop No 321
+  Name: Бука
+  Cashback: до 6.92%
+Shop No 322
+  Name: Буквоед
+  Cashback: до 8.10%
+Shop No 323
+  Name: Букет Маркет
+  Cashback: 13.12%
+Shop No 324
+  Name: Быстроном
+  Cashback: до 6.30%
+Shop No 325
+  Name: Водник
+  Cashback: до 6.75%
+Shop No 326
+  Name: ВсеИнструменты
+  Cashback: 1.35%
+Shop No 327
+  Name: Газелькин
+  Cashback: 18.35%
+Shop No 328
+  Name: Гипермаркет-матрасов.рф
+  Cashback: 5.76%
+Shop No 329
+  Name: Издательство Clever
+  Cashback: до 9.00%
+Shop No 330
+  Name: Издательство «МИФ»
+  Cashback: до 8.10%
+Shop No 331
+  Name: Искусница
+  Cashback: 5.92%
+Shop No 332
+  Name: Кенгуру
+  Cashback: до 4.50%
+Shop No 333
+  Name: Клуб Нумизмат
+  Cashback: до 3.22%
+Shop No 334
+  Name: М.Видео
+  Cashback: До 15.39 %
+Shop No 335
+  Name: МАКИ МАКИ
+  Cashback: до 6.30%
+Shop No 336
+  Name: МДМ-Комплект
+  Cashback: до 2.62%
+Shop No 337
+  Name: МегаФон
+  Cashback: до 7.20%
+Shop No 338
+  Name: Мираторг
+  Cashback: 10.80%
+Shop No 339
+  Name: Много мебели
+  Cashback: 6.30%
+Shop No 340
+  Name: МТС
+  Cashback: до 5.85%
+Shop No 341
+  Name: Отличные наличные [CPS] RU
+  Cashback: 1080.00 р.
+Shop No 342
+  Name: ПАРИ [CPS] RU
+  Cashback: 20.0
+Shop No 343
+  Name: Перекресток Впрок
+  Cashback: до 9.00%
+Shop No 344
+  Name: Пироги №1
+  Cashback: 9.00%
+Shop No 345
+  Name: Подружка
+  Cashback: до 4.62%
+Shop No 346
+  Name: Полис812 [CPS] RU
+  Cashback: до 6.93 р.
+Shop No 347
+  Name: Профгид
+  Cashback: до 5.24%
+Shop No 348
+  Name: Путевка.ком
+  Cashback: 3.15%
+Shop No 349
+  Name: Сантехника Тут RU
+  Cashback: до 3.67%
+Shop No 350
+  Name: СберМегаМаркет
+  Cashback: 9 %
+Shop No 351
+  Name: СберМобайл
+  Cashback: 225.00 р.
+Shop No 352
+  Name: Сима-ленд
+  Cashback: до 1.44%
+Shop No 353
+  Name: Спивакъ
+  Cashback: 16.20%
+Shop No 354
+  Name: Столплит
+  Cashback: 5.40%
+Shop No 355
+  Name: Страховка.ру [CPS] RU
+  Cashback: 10.8
+Shop No 356
+  Name: Стройландия
+  Cashback: до 3.60%
+Shop No 357
+  Name: Технопарк
+  Cashback: до 4.67%
+Shop No 358
+  Name: Техпорт
+  Cashback: до 9.36%
+Shop No 359
+  Name: Трансформация-сна
+  Cashback: до 4.50%
+Shop No 360
+  Name: ТутПросто
+  Cashback: до 6.92%
+Shop No 361
+  Name: Улыбка радуги
+  Cashback: 5.87%
+Shop No 362
+  Name: Умназия
+  Cashback: 1350 р.
+Shop No 363
+  Name: Услада RU
+  Cashback: 16.26%
+Shop No 364
+  Name: Холодильник
+  Cashback: до 2.39%
+Shop No 365
+  Name: Цветочный Ряд
+  Cashback: 9.81%
+Shop No 366
+  Name: ЭПЛ. Якутские бриллианты
+  Cashback: 1.15%
+Shop No 367
+  Name: Ювелирочка
+  Cashback: 5.40%
+Shop No 368
+  Name: Яндекс.Маркет
+  Cashback: 14 %
+Shop No 369
+  Name: Яркий Фотомаркет
+  Cashback: до 8.80%
